@@ -1,0 +1,51 @@
+OkapiBmw25 Evaluation
+
+p@5 :
+For Query 202: 0.0
+For Query 214: 0.4
+For Query 216: 0.8
+For Query 221: 0.4
+For Query 227: 0.4
+For Query 230: 0.4
+For Query 234: 0.2
+For Query 243: 0.2
+For Query 246: 0.0
+For Query 250: 0.0
+********************************************
+p@10 :
+For Query 202: 0.0
+For Query 214: 0.7
+For Query 216: 0.9
+For Query 221: 0.3
+For Query 227: 0.3
+For Query 230: 0.2
+For Query 234: 0.3
+For Query 243: 0.4
+For Query 246: 0.1
+For Query 250: 0.0
+********************************************
+p@20 :
+For Query 202: 0.0
+For Query 214: 0.8
+For Query 216: 0.8
+For Query 221: 0.35
+For Query 227: 0.4
+For Query 230: 0.1
+For Query 234: 0.5
+For Query 243: 0.4
+For Query 246: 0.25
+For Query 250: 0.0
+********************************************
+p@30 :
+For Query 202: 0.0
+For Query 214: 0.8666666666666667
+For Query 216: 0.8
+For Query 221: 0.5333333333333333
+For Query 227: 0.36666666666666664
+For Query 230: 0.1
+For Query 234: 0.5
+For Query 243: 0.4666666666666667
+For Query 246: 0.2
+For Query 250: 0.0
+********************************************
+Mean Avg Precision: 0.40449631196362706
